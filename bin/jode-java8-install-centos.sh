@@ -1,7 +1,7 @@
 #!/bin/bash
 
 WORK=/tmp/jode
-JDK_URL=http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-linux-i586.rpm
+JDK_URL=http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-linux-x64.rpm
 JCE_URL=http://download.oracle.com/otn-pub/java/jce/8/jce_policy-8.zip
 mkdir -p $WORK
 
